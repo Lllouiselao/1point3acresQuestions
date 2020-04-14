@@ -6,3 +6,10 @@
 - [ ] 美国面经版数据科学分类  
 - [ ] 数据科学版  
 - [ ] 找工求职版  
+
+***
+##### which state is University of Miami located?  
+- [x] Florida
+- [ ] California  
+- [ ] Nevada  
+- [ ] Ohio   
