@@ -13,3 +13,10 @@
 - [ ] California  
 - [ ] Nevada  
 - [ ] Ohio   
+
+***
+##### 下面哪个城市没有SUNY（纽约州立大学）校区？
+- [ ] Buffalo
+- [ ] Stony Brook  
+- [ ] Albany 
+- [x] Fulton
