@@ -20,3 +20,10 @@
 - [ ] Stony Brook  
 - [ ] Albany 
 - [x] Fulton
+
+***
+##### 下面哪个学术会议不是机器学习领域的？
+- [ ]  CVPR
+- [x]  ICSE
+- [ ]  ICML
+- [ ]  SIGKDD
