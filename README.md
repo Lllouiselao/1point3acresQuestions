@@ -27,3 +27,10 @@
 - [x]  ICSE
 - [ ]  ICML
 - [ ]  SIGKDD
+
+***
+##### 下面哪个machine learning的模型不是supervised learning？
+- [x]   Clustering
+- [ ]   SVM
+- [ ]   Logistic regression
+- [ ]   Decision Tree
