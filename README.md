@@ -34,3 +34,10 @@
 - [ ]   SVM
 - [ ]   Logistic regression
 - [ ]   Decision Tree
+
+***
+##### 下面哪个专业，不是STEM，OPT没法延期？
+- [ ]  EECS
+- [ ]  会计学以前不是，现在很多学校stem获批
+- [ ]  数据科学
+- [x]  教育学
