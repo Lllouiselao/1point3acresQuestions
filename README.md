@@ -48,3 +48,10 @@
 - [ ]  南达科他州
 - [x]  亚利桑那州
 - [ ]  阿肯色州
+
+***
+##### 下面哪个作家是英国人？
+- [ ]  Victor Hugo
+- [ ]  Alexander Pushkin
+- [x]  Charles Dickens
+- [ ]  Ernest Hemingway
