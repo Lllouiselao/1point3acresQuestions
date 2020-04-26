@@ -55,3 +55,10 @@
 - [ ]  Alexander Pushkin
 - [x]  Charles Dickens
 - [ ]  Ernest Hemingway
+
+***
+##### 下面哪个machine learning 的模型不是supervised
+- [ ]  Decision Tree
+- [ ]  SVM
+- [ ]  Logistic regression
+- [x]  Clustering
