@@ -57,8 +57,8 @@
 - [ ]  Ernest Hemingway
 
 ***
-##### 下面哪个machine learning 的模型不是supervised
-- [ ]  Decision Tree
-- [ ]  SVM
-- [ ]  Logistic regression
-- [x]  Clustering
+##### Miami University在哪个城市
+- [ ]   Las Vegas, Nevada
+- [ ]   Miami, Florida
+- [ ]   Los Angeles, California
+- [x]    Oxford, Ohio
