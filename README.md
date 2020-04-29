@@ -61,4 +61,11 @@
 - [ ]   Las Vegas, Nevada
 - [ ]   Miami, Florida
 - [ ]   Los Angeles, California
-- [x]    Oxford, Ohio
+- [x]   Oxford, Ohio
+
+***
+##### 下面哪所纽约高校坐落于中央公园附近
+- [ ]   New York University
+- [x]   Columbia University
+- [ ]   Syracuse University
+- [ ]   Fordham University
