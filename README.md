@@ -69,3 +69,10 @@
 - [x]   Columbia University
 - [ ]   Syracuse University
 - [ ]   Fordham University
+
+***
+##### 关于旧金山市中心描述，下面哪个不正确？
+- [x]  旧金山创业公司很多，被称为“硅谷”
+- [ ]  车里一定不要放东西，但即使不放，也可能被砸车玻璃
+- [ ]  走路得看着路，很多流浪汉，地上屎尿一不小心会踩上
+- [ ]  Uber/Airbnb/Pinterest/Twitter等著名科技公司都在SOMA区
