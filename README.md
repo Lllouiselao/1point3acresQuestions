@@ -90,3 +90,10 @@
 - [ ]  李尔王
 - [ ]  麦克白
 - [ ]  哈姆雷特
+
+***
+##### 下面哪个州，有state income tax on wages
+- [ ]  Alaska
+- [x]  Mississippi
+- [ ]   Tennessee
+- [ ]   Washington
