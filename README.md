@@ -93,7 +93,14 @@
 
 ***
 ##### 下面哪个州，有state income tax on wages
-- [ ]  Alaska
-- [x]  Mississippi
+- [ ]   Alaska
+- [x]   Mississippi
 - [ ]   Tennessee
 - [ ]   Washington
+
+***
+##### 【题目】 公司之间级别对应，如下哪个是错误的？
+- [x]   Facebook L6 = Facebook E6
+- [ ]   Uber Sr II = Lyft T6
+- [ ]   Google T5 = Facebook E5/6
+- [ ]   Amazon L7 = Facebook E6
